@@ -11,7 +11,7 @@ class HomePage extends StatelessWidget {
       ),
       body: Center(
         child: Container(
-          child: Text("WElcome to $days days of flutter by $name"),
+          child: Text("WElcome to $days days flutter titorials by $name"),
         ),
       ),
       drawer: Drawer(),
